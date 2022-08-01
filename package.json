@@ -1,5 +1,5 @@
 {
-  "name": "@ensdomains/mock",
+  "name": "@cndllabs/mock",
   "version": "2.1.50",
   "description": "ENS mock scripts",
   "main": "dist/index.js",

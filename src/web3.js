@@ -96,6 +96,8 @@ function getNetworkProviderUrl(id) {
       return `https://rinkeby.infura.io/v3/90f210707d3c450f847659dc9a3436ea`
     case '5':
       return `https://goerli.infura.io/v3/90f210707d3c450f847659dc9a3436ea`
+    case '534':
+      return `https://rpc.cndlchain.com`
     default:
       return 'private'
   }
