@@ -1,6 +1,6 @@
 {
   "name": "@cndllabs/mock",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "ENS mock scripts",
   "main": "dist/index.js",
   "files": [
